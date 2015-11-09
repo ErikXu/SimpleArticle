@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleArticle.Infrastructur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleArticle.Downloader", "SimpleArticle.Downloader\SimpleArticle.Downloader.csproj", "{105CB3A5-5745-437D-9CB5-B0E1E69B72D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleArticle.Wap", "SimpleArticle.Wap\SimpleArticle.Wap.csproj", "{0BE6742A-3420-4394-968C-803A5B6B4D82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{105CB3A5-5745-437D-9CB5-B0E1E69B72D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{105CB3A5-5745-437D-9CB5-B0E1E69B72D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{105CB3A5-5745-437D-9CB5-B0E1E69B72D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE6742A-3420-4394-968C-803A5B6B4D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE6742A-3420-4394-968C-803A5B6B4D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE6742A-3420-4394-968C-803A5B6B4D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE6742A-3420-4394-968C-803A5B6B4D82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
